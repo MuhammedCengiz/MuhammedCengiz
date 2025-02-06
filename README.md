@@ -1,5 +1,6 @@
 -  I’m Muhammed Cengiz
 -  As of now I'm a first-year CS student at Bilkent University
+-  Interested in software
 -  Contact info: muhammedcengiz5116@gmail.com
 
 

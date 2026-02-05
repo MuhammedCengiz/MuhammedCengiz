@@ -1,7 +1,8 @@
 -  I’m Muhammed Cengiz
--  As of now I'm a first-year CS student at Bilkent University
+-  As of now I'm a second-year CS student at Bilkent University
 -  Interested in software
--  Contact info: muhammedcengiz5116@gmail.com
+-  Interested in Game Development
+-  Contact info: muhammedcengiz@proton.me
 
 
 <!---
